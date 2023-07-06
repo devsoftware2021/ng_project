@@ -1,0 +1,14 @@
+Angular Requirement
+Install the Angular CLI
+    npm install -g @angular/cli
+
+Create a workspace and initial application
+    ng new my-app
+
+Use sudo for mac and linux os
+
+Run application
+    ng serve
+    ng serve --open : automatically open localhost:4200
+
+
